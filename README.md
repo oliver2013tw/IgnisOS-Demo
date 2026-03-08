@@ -1,4 +1,4 @@
-🔥 IgnisOS v1.0 Inferno 官方使用手冊
+🔥 IgnisOS v1.0 官方使用手冊
 
 這是一款基於 Arch Linux 核心構建，專為高效能與極致視覺體驗打造的現代化作業系統。
 
