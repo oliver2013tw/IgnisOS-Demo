@@ -23,7 +23,7 @@
 🚀 流程與使用配置
 
 1. 啟動與引導
-將下載的 IgnisOS-v1-ISO.zip 解壓縮，獲取 .iso 映像檔。將其掛載至虛擬機 (如 VMware, VirtualBox, UTM) 或使用 Ventoy 製作啟動隨身碟。
+將IgnisOS-Demo1.iso掛載至虛擬機 (如 VMware, VirtualBox, UTM) 或使用 Ventoy 製作啟動隨身碟。
 
 3. 身份驗證程序
 開機進入系統後，會自動觸發 Ignis-Auth 加密防護層：
