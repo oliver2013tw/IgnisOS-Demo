@@ -33,17 +33,31 @@ GPU 加速終端: 內建 Kitty 終端機，降低渲染延遲。
 🎹 常用快捷鍵 (Default Keybinds)
 組合鍵
 功能說明
+
 Super + Q
+
 開啟 Kitty 終端機
+
 Super + D
+
 開啟應用程式搜尋選單 (Rofi)
+
 Super + E
+
 開啟檔案管理員
+
 Super + V
+
 切換視窗浮動 / 平鋪模式
+
 Super + C
+
 關閉當前視窗
+
 Super + M
+
 退出 IgnisOS (回到登入界面)
 
 IgnisOS - Forge your digital destiny.
+
+本系統皆由AI開發
