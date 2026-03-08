@@ -86,4 +86,4 @@ Super + M
 
 IgnisOS - Forge your digital destiny.
 
-本系統皆由AI開發
+本系統由AI開發
